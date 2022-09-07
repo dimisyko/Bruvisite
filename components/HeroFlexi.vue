@@ -22,7 +22,8 @@ export default {
        posY : 0,
        ease : 8,
        newPosX : 0,
-       newPosY : 0
+       newPosY : 0,
+       raf : undefined
     }
   },
   
@@ -33,6 +34,7 @@ export default {
   },
   beforeDestroy(){
       window.removeEventListener('resize', this.anim)
+      cancelAnimationFrame(this.raf)
   },
   methods :{
     anim(){
@@ -64,20 +66,18 @@ export default {
         duration : 1,
       }, "timeFlexi")
     },
-    imgParallax($event){
+    imgParallax(e){
       if(window.innerWidth > 1025){
-          this.posX = ($event.clientX - window.innerWidth * 0.3) / 100
-            this.posY = ($event.clientY - window.innerHeight * 0.3) / 100
+          this.posX = (e.clientX - window.innerWidth * 0.3) / 100
+            this.posY = (e.clientY - window.innerHeight * 0.3) / 100
       }
       },
       lerp(){
-        if(this.$refs.Tparallax){
               this.newPosX+= (this.posX - this.newPosX) / this.ease
               this.newPosY+= (this.posY - this.newPosY) / this.ease
               this.$refs.Tparallax.style.transform = 'translate3d('+(this.newPosX * 3)+'px,'+(this.newPosY * 3)+'px, 0px)'
-              window.requestAnimationFrame(this.lerp)
+             this.raf = window.requestAnimationFrame(this.lerp)
         }
-      }
   }
 };
 </script>

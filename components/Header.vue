@@ -112,7 +112,7 @@ export default {
         lien: [
               {
                 url: "/",
-                nameLien: "Les thématiques",
+                nameLien: "Accueil",
               },
           {
                 url: "/visite",
