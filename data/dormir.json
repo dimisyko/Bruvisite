@@ -1,0 +1,66 @@
+{
+      "hotel": [
+          {
+            "dataV" : "-0.15",
+            "hotelImg" : "imgHotel/hotel1.webp",
+            "hotelTitle" : "Meininger Hôtel Brussels City",
+            "hotelTxt" : "Situé sur les rives du canal Charleroi-Bruxelles, cet hôtel design de Meininger occupe une ancienne usine. Il propose une connexion Wi-Fi gratuite et une réception ouverte 24h/24. La Grand Place se trouve à 1,5 km.",
+            "hotelNote" : " * * * ",
+            "hotelPrix" : " € 90.0 ",
+            "hotelMap" : "https://www.google.com/maps/place/Meininger+Hotel/@50.8512031,4.3359683,17z/data=!3m1!4b1!4m8!3m7!1s0x47c3c38bc8f50f41:0x35d52e894dfa5be!5m2!4m1!1i2!8m2!3d50.8512031!4d4.338157",
+            "hotelLink" : "https://www.meininger-hotels.com/en/hotels/brussels/hotel-bruxelles-city-center/?utm_source=gmb&utm_medium=referral&utm_campaign=BRU-QH&utm_content=website"
+          },
+          {
+            "dataV" : "-0.15",
+            "hotelImg" : "imgHotel/hotel2.webp",
+            "hotelTitle" : "Hôtel Victory",
+            "hotelTxt" : "Situé sur la rocade de Bruxelles, cet hôtel familial rénové sert une excellente cuisine et possède un grand parking. Le centre-ville est facilement accessible par les transports en commun, et le centre d’exposition est accessible à pied.",
+            "hotelNote" : " * * * ",
+            "hotelPrix" : " € 80.0 ",
+            "hotelMap" : "https://www.google.com/maps/place/Hotel+Victory/@50.8745292,4.2829084,17z/data=!3m1!4b1!4m8!3m7!1s0x47c3c114e4f74bc5:0xab9ab12f8912113e!5m2!4m1!1i2!8m2!3d50.8745292!4d4.2850971",
+            "hotelLink" : "http://www.hotelvictory.be"
+          },
+          {
+            "dataV" : "-0.15",
+            "hotelImg" : "imgHotel/hotel3.webp",
+            "hotelTitle" : "Radisson RED",
+            "hotelTxt" : "Découvrez un hôtel unique, résolument contemporain, créatif et connecté. Un cadre au design audacieux inspiré par les univers de l'art, de la musique et de la mode. Il est situé au coeur du Quartier Européen et à deux pas du Centre Ville de Bruxelles.",
+            "hotelNote" : " * * * ",
+            "hotelPrix" : " € 130.0 ",
+            "hotelMap" : "https://www.google.com/maps?q=Radisson+RED+Hotel&bih=716&biw=1440&client=safari&hl=fr&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiSpeTr4Jb5AhUa7qQKHQ8cBGkQ_AUoAnoECAIQBA",
+            "hotelLink" : "https://www.radissonhotels.com/fr-fr/hotels/radisson-red-brussels"
+          }
+      ],
+      "auberge": [
+        {
+          "dataV" : "-0.15",
+          "hotelImg" : "imgHotel/auberge_generation.webp",
+          "hotelTitle" : "Génération Europe",
+          "hotelTxt" : "L’Auberge de Jeunesse Génération Europe est idéalement située près du canal de Bruxelles, à 15 minutes à peine de la Grand Place et à 10 minutes de la Rue Antoine Dansaert pour les amoureux du shopping tout comme le quartier Saint-Géry pour faire la fête.",
+          "hotelNote" : " * * * ",
+          "hotelPrix" : " € 22 ",
+          "hotelMap" : "https://www.google.com/maps/place/Auberge+de+Jeunesse+Génération+Europe+-+Youth+Hostel/@50.8529186,4.3323544,17z/data=!3m1!4b1!4m8!3m7!1s0x47c3c38b4c8ede71:0x98410671b7245130!5m2!4m1!1i2!8m2!3d50.8529537!4d4.3344759",
+          "hotelLink" : "https://lesaubergesdejeunesse.be/bruxelles-generation-europe"
+        },
+        {
+          "dataV" : "-0.15",
+          "hotelImg" : "imgHotel/auberge-JB.webp",
+          "hotelTitle" : "Auberge Jacques Brel",
+          "hotelTxt" : "L'Auberge de Jeunesse Jacques Brel, situé en plein centre de Bruxelles, nous vous garantissons une ambiance jeune et internationale ! Cette auberge est l’endroit idéal pour passer un citytrip au cœur de la capitale de l’Europe.",
+          "hotelNote" : " * * * ",
+          "hotelPrix" : " € 29.5 ",
+          "hotelMap" : "https://www.google.com/maps/place/Auberge+de+Jeunesse+Jacques+Brel+-+Youth+Hostel/@50.8516584,4.3650069,17z/data=!3m1!4b1!4m8!3m7!1s0x47c3c37c1251e351:0x6cc9a04b791a6421!5m2!4m1!1i2!8m2!3d50.8516584!4d4.3671956",
+          "hotelLink" : "https://lesaubergesdejeunesse.be/bruxelles-jacques-brel"
+        },
+        {
+          "dataV" : "-0.15",
+          "hotelImg" : "imgHotel/sleep_well.webp",
+          "hotelTitle" : "Sleep Well Youth",
+          "hotelTxt" : "Le Sleep Well est à 10 minutes à pied de la Grand-Place et de la gare du Nord et à 100m de la station de métro Rogier et d'un centre commercial. Toutes les chambres sont entièrement rénovées et équipées de salles de bain et de toilettes privées",
+          "hotelNote" : " * * * ",
+          "hotelPrix" : " € 26 ",
+          "hotelMap" : "https://www.google.com/maps/place/Sleep+Well+Youth+Hostel/@50.8529957,4.3560206,17z/data=!3m1!4b1!4m8!3m7!1s0x47c3c3821e00b7fb:0x7a916918c1a9916b!5m2!4m1!1i2!8m2!3d50.8530113!4d4.3581692?hl=fr",
+          "hotelLink" : "https://www.sleepwell.be/index.php/fr/"
+        }
+    ]
+}

@@ -1,0 +1,525 @@
+{
+  "sectionIntro": {
+    "imageParallax": [
+      {
+        "dataV": "0.03",
+        "alt": "atomium",
+        "img": "imgHome/atomium.webp"
+      },
+      {
+        "dataV": "-0.03",
+        "alt": "cinquantenaire",
+        "img": "imgTourisme/detail/bg_cinquantenaire.webp"
+      },
+      {
+        "dataV": "-0.03",
+        "alt": "manneken pis",
+        "img": "imgHome/Bruxelles_Manneken_Pis.webp"
+      }
+    ]
+  },
+  "sectionTop5": {
+    "imageContent": [
+      {
+        "dataV": "0.08",
+        "title": "Atomium",
+        "img": "imgHome/atomium-visit.webp",
+        "alt": "atomium",
+        "link": "atomium"
+      },
+      {
+        "dataV": "",
+        "title": "Cinquantenaire",
+        "img": "imgHome/cinquantenaire-visit.webp",
+        "alt": "cinquantenaire",
+        "link": "cinquantenaire"
+      },
+      {
+        "dataV": "-0.08",
+        "title": "Palais royal",
+        "img": "imgHome/palaisRoyal-visit.webp",
+        "alt": "palais-royal",
+        "link": "palais-royal"
+      }
+    ]
+  },
+  "sectionNocturne": {
+        "imgNocturneClub": "imgHome/club.webp",
+        "imgNocturneSpectale": "imgHome/spectacle.webp",
+        "titleNocturne": "Spectacles / Clubs",
+        "txtNocturne": "Bruxelles compte des dizaines de lieux où danser. La crème des DJ’s internationaux se rend ici tous les weekends car ils connaissent l’ambiance électrique des bruxellois."
+  },
+  "detailPage": [
+    {
+      "dataV": "0.1",
+      "urlPage": "atomium",
+      "detailTitre": " Atomium ",
+      "img": "imgTourisme/atomium-visit.webp",
+      "detail": {
+        "imgDetail": "imgTourisme/detail/atomiumDetail.webp",
+        "imgDetailAlt": "atomium",
+        "sectionInfo": {
+          "titleInfo": "Quelques informations sur le lieu",
+          "paragraphInfo": "L’Atomium est un monument de Bruxelles, en Belgique, construit à l'occasion de l'Exposition universelle de 1958 et représentant la maille conventionnelle du cristal de fer (structure cubique centrée) agrandie 165 milliards de fois. Il est situé à Laeken sur le plateau du Heysel où eut lieu cette exposition.",
+          "imgInfo": "imgTourisme/detail/atomium-info.webp",
+          "bgImage": "bg_atomium.webp"
+        },
+        "sectionHistory": {
+          "titleHistory": "Son histoire, culture",
+          "paragraphHistory": "Le peintre Roger Hebbelinck (1912 -1987) et le sculpteur Ernest Salu (1909 -1987) filment avec des droits exclusifs la construction de l’Atomium. Le documentaire « Construction de l’Atomium » (1957 - 26- réalisation : E. Salu et R. Hebbelinck, musique : Christian Leroy) est primé à Anvers en 1958. Un reportage de la télévision belge (RTBF) de Francis Drapier réalisé en 1988 reproduit de larges extraits de ce documentaire."
+        },
+        "sectionPublicTransport": {
+          "titleTransport": "Comment s’y rendre",
+          "publicTransport": [
+            {
+              "dataV": "0.08",
+              "svgTransport": "icon/bus.svg",
+              "transport": "En bus",
+              "numberTransport": "Ligne : 7",
+              "infoTransport": "Plus d’informations sur",
+              "linkValue": "Stib",
+              "link": "https://www.stib-mivb.be"
+            },
+            {
+              "dataV": "-0.08",
+              "svgTransport": "icon/metro.svg",
+              "transport": "En Metro",
+              "numberTransport": "Ligne : 6",
+              "infoTransport": "Plus d’informations sur",
+              "linkValue": "Stib",
+              "link": "https://www.stib-mivb.be"
+            }
+          ]
+        },
+        "accordeon": [
+          {
+            "titleAccordeon": "Restaurants",
+            "listAccordeon": [
+              {
+                "imgAccordeon": "imgTourisme/detail/resto-atomium1.webp",
+                "altImgAccordeon": "Salles salon 58",
+                "listName": "Salles salon 58",
+                "infoAccordeon": "Av. de l'Atomium 6",
+                "telAccordeon": "02 479 84 00",
+                "listLink": "https://www.salon58.com/reservation-salles-contact/"
+              },
+              {
+                "imgAccordeon": "imgTourisme/detail/resto-atomium2.webp",
+                "altImgAccordeon": "Atomium Restaurant",
+                "listName": "Atomium Restaurant",
+                "infoAccordeon": "Pl. de l'atomium 1",
+                "telAccordeon": "02 479 58 50",
+                "listLink": "https://www.atomiumrestaurant.be/fr/reservations/"
+              }
+            ]
+          },
+          {
+            "titleAccordeon": "Bars",
+            "listAccordeon": [
+              {
+                "imgAccordeon": "imgTourisme/detail/bar-atomium1.webp",
+                "altImgAccordeon": "Guinguette Andre",
+                "listName": "Guinguette Andre",
+                "infoAccordeon": "Park de Laeken",
+                "telAccordeon": "Pas de numéro",
+                "listLink": "https://agenda.brussels/fr/536238/park-tour-visite-gratuite-parc-de-laeken"
+              },
+              {
+                "imgAccordeon": "imgTourisme/detail/bar-atomium2.webp",
+                "altImgAccordeon": "Marathon",
+                "listName": "Marathon",
+                "infoAccordeon": "Av. Houba de Strooper",
+                "telAccordeon": "0479 54 07 69",
+                "listLink": "https://marathon-bar.business.site/?utm_source=gmb&utm_medium=referral"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "dataV": "-0.1",
+      "urlPage": "grand_place",
+      "detailTitre": " Grand place ",
+      "img": "imgTourisme/grandPlace-visit.webp",
+      "detail": {
+        "imgDetail": "imgTourisme/detail/grand-placeDetail.webp",
+        "imgDetailAlt": "grand place",
+        "sectionInfo": {
+          "titleInfo": "Quelques informations sur le lieu",
+          "paragraphInfo": "Souvent considérée comme la plus belle place du monde la réputation de la Grand-Place de Bruxelles n’est plus à établir ! Mondialement renommée pour sa richesse ornementale, elle est bordée par les maisons des corporations, l'hôtel de Ville et la Maison du Roi",
+          "imgInfo": "imgTourisme/detail/grandPlace.webp",
+          "bgImage": "bg_grandPlace.webp"
+        },
+        "sectionHistory": {
+          "titleHistory": "Son histoire, culture",
+          "paragraphHistory": "Au xe siècle, les ducs de Basse-Lotharingie, ayant construit un château-fort sur une île de la Senne, furent à l'origine de la naissance de Bruxelles. Vers la fin du xie siècle, près de ce château s’installa un marché en plein air dans un marais asséché (le quartier de la Grand-Place était à l'époque un vaste marécage entouré de bancs de sable) : on l'appela finalement le « Nedermerkt », « le Marché Inférieur »."
+        },
+        "sectionPublicTransport": {
+          "titleTransport": "Comment s’y rendre",
+          "publicTransport": [
+            {
+              "dataV": "0.08",
+              "svgTransport": "icon/bus.svg",
+              "transport": "En bus",
+              "numberTransport": "Ligne : 214, 29, 351, 46 ,71 ,95",
+              "infoTransport": "Plus d’informations sur",
+              "linkValue": "Stib",
+              "link": "https://www.stib-mivb.be"
+            },
+            {
+              "dataV": "",
+              "svgTransport": "icon/train.svg",
+              "transport": "En train",
+              "numberTransport": "IC, S10, S2, S8",
+              "infoTransport": "Plus d’informations sur",
+              "linkValue": "Sncb",
+              "link": "https://www.belgiantrain.be"
+            },
+            {
+              "dataV": "-0.08",
+              "svgTransport": "icon/train.svg",
+              "transport": "En tram",
+              "numberTransport": "Ligne : 4",
+              "infoTransport": "Plus d’informations sur",
+              "linkValue": "Stib",
+              "link": "https://www.stib-mivb.be"
+            }
+          ]
+        },
+        "accordeon": [
+          {
+            "titleAccordeon": "Restaurants",
+            "listAccordeon": [
+              {
+                "imgAccordeon": "imgTourisme/detail/rose-blanche.webp",
+                "altImgAccordeon": "rose blance",
+                "listName": "La rose blanche",
+                "infoAccordeon": "Grand Place 11",
+                "telAccordeon": "02 207 86 13",
+                "listLink": "https://www.restaurant-rose-blanche.be"
+              },
+              {
+                "imgAccordeon": "imgTourisme/detail/paon.webp",
+                "altImgAccordeon": "paon",
+                "listName": "Le paon",
+                "infoAccordeon": "Grand Place 35",
+                "telAccordeon": "02 207 86 13",
+                "listLink": "http://www.lepaonbrussels.com"
+              }
+            ]
+          },
+          {
+            "titleAccordeon": "Bars",
+            "listAccordeon": [
+              {
+                "imgAccordeon": "imgTourisme/detail/cercueil.webp",
+                "altImgAccordeon": "cercueil",
+                "listName": "Le Cercueil",
+                "infoAccordeon": "Rue des Harengs 10/12",
+                "telAccordeon": "0497 12 45 65",
+                "listLink": "https://www.facebook.com/barlecercueil"
+              },
+              {
+                "imgAccordeon": "imgTourisme/detail/golden.webp",
+                "altImgAccordeon": "golden",
+                "listName": "Golden Bar",
+                "infoAccordeon": "Rue des Chapeliers 12",
+                "telAccordeon": "0489 60 35 03",
+                "listLink": "https://www.facebook.com/goldenbarrr/"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "dataV": "0.1",
+      "urlPage": "cinquantenaire",
+      "detailTitre": "Cinquantenaire",
+      "img": "imgTourisme/cinquantenaire-visit.webp",
+      "detail": {
+        "imgDetail": "imgTourisme/detail/cinquantenaireDetail.webp",
+        "imgDetailAlt": "cinquantenaire",
+        "sectionInfo": {
+          "titleInfo": "Quelques informations sur le lieu",
+          "paragraphInfo": "Le parc est construit autour d'une porte de ville à trois arches que les Bruxellois appellent les Arcades du Cinquantenaire. Plusieurs musées l'entourent : les Musées de l'armée, le Musée de l'aviation, le Musée de l'automobile, et les Musées royaux d'art et d'histoire qui présentent de vastes collections d'objets.",
+          "imgInfo": "imgTourisme/detail/cinquantenaire-info.webp",
+          "bgImage": "bg_cinquantenaire.webp"
+        },
+        "sectionHistory": {
+          "titleHistory": "Son histoire, culture",
+          "paragraphHistory": "À la fin du xixe siècle, la Belgique nouvellement indépendante est en plein essor économique et industriel. Le roi Léopold II, rejoint par la bourgeoisie dirigeante, a la volonté de doter Bruxelles d’infrastructures, de parcs et de monuments prestigieux dignes d’une capitale. À l’approche du cinquantième anniversaire de la révolution de 1830 qui a entraîné l’indépendance de la Belgique."
+        },
+        "sectionPublicTransport": {
+          "titleTransport": "Comment s’y rendre",
+          "publicTransport": [
+            {
+              "dataV": "0.08",
+              "svgTransport": "icon/bus.svg",
+              "transport": "En bus",
+              "numberTransport": "Ligne : 21, 27, 61, 79, 80, 81",
+              "infoTransport": "Plus d’informations sur",
+              "linkValue": "Stib",
+              "link": "https://www.stib-mivb.be"
+            },
+            {
+              "dataV": "",
+              "svgTransport": "icon/train.svg",
+              "transport": "En train",
+              "numberTransport": "IC, ligne : 161, 26",
+              "infoTransport": "Plus d’informations sur",
+              "linkValue": "Sncb",
+              "link": "https://www.belgiantrain.be"
+            },
+            {
+              "dataV": "-0.08",
+              "svgTransport": "icon/metro.svg",
+              "transport": "En métro",
+              "numberTransport": "ligne : 1 / 5",
+              "infoTransport": "Plus d’informations sur",
+              "linkValue": "Stib",
+              "link": "https://www.stib-mivb.be"
+            }
+          ]
+        },
+        "accordeon": [
+          {
+            "titleAccordeon": "Restaurants",
+            "listAccordeon": [
+              {
+                "imgAccordeon": "imgTourisme/detail/resto-cinquantenaire1.webp",
+                "altImgAccordeon": "Carpe Diem",
+                "listName": "Carpe Diem",
+                "infoAccordeon": "Av. de Tervueren 13",
+                "telAccordeon": "02 735 05 49",
+                "listLink": "https://www.le-carpediem.be"
+              },
+              {
+                "imgAccordeon": "imgTourisme/detail/resto-cinquantenaire2.webp",
+                "altImgAccordeon": "Le Pré aux Clercs",
+                "listName": "Le Pré aux Clercs",
+                "infoAccordeon": "Av. de la Renaissance 42",
+                "telAccordeon": "02 735 15 08",
+                "listLink": "https://www.facebook.com/preauxclercsbruxelles"
+              }
+            ]
+          },
+          {
+            "titleAccordeon": "Bars",
+            "listAccordeon": [
+              {
+                "imgAccordeon": "imgTourisme/detail/bar-cinquantenaire1.webp",
+                "altImgAccordeon": "Guinguette Maurice",
+                "listName": "Guinguette Maurice",
+                "infoAccordeon": "Parc du Cinquantenaire",
+                "telAccordeon": "Pas de numéro",
+                "listLink": "http://guinguettesbarc.be/nos-guinguettes/"
+              },
+              {
+                "imgAccordeon": "imgTourisme/detail/bar-cinquantenaire2.webp",
+                "altImgAccordeon": "The Hairy Canary",
+                "listName": "The Hairy Canary",
+                "infoAccordeon": "Archimedesstraat 12",
+                "telAccordeon": "02 230 24 17",
+                "listLink": "https://www.facebook.com/pages/Hairy-Canary/197408210290213"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "dataV": "-0.1",
+      "urlPage": "palais-royal",
+      "detailTitre": "Palais royal",
+      "img": "imgTourisme/palaisRoyal-visit.webp",
+      "detail": {
+        "imgDetail": "imgTourisme/detail/palais-royalDetail.webp",
+        "imgDetailAlt": "palais royal",
+        "sectionInfo": {
+          "titleInfo": "Quelques informations sur le lieu",
+          "paragraphInfo": "Le palais royal de Bruxelles est situé place des Palais. Né de la réunion de quatre hôtels particuliers construits au xviiie siècle, Walckiers, Bender, Belgiojoso et Belle-Vue, il abrite aujourd’hui le bureau du roi des Belges, qui y accorde ses audiences et y exerce ses activités officielles.",
+          "imgInfo": "imgTourisme/detail/palaisRoyal-info.webp",
+          "bgImage": "bg_palaisRoyal.webp"
+        },
+        "sectionHistory": {
+          "titleHistory": "Son histoire, culture",
+          "paragraphHistory": "Afin d’offrir au souverain, le roi Guillaume Ier des Pays-Bas, une résidence digne de son rang à Bruxelles, où il est censé résider une année sur deux, les deux hôtels centraux, situés de part et d’autre de la rue Héraldique, ont été agrandis et réunis par un bâtiment central à colonnade."
+        },
+        "sectionPublicTransport": {
+          "titleTransport": "Comment s’y rendre",
+          "publicTransport": [
+            {
+              "dataV": "0.08",
+              "svgTransport": "icon/bus.svg",
+              "transport": "En bus",
+              "numberTransport": "Ligne : 12, 29, 318, 38, 48, 63, 65, 71",
+              "infoTransport": "Plus d’informations sur",
+              "linkValue": "Stib",
+              "link": "https://www.stib-mivb.be"
+            },
+            {
+              "dataV": "",
+              "svgTransport": "icon/train.svg",
+              "transport": "En train",
+              "numberTransport": "IC, S10, S2, S6",
+              "infoTransport": "Plus d’informations sur",
+              "linkValue": "Sncb",
+              "link": "https://www.belgiantrain.be"
+            },
+            {
+              "dataV": "-0.08",
+              "svgTransport": "icon/train.svg",
+              "transport": "En tram",
+              "numberTransport": "Ligne : 92",
+              "infoTransport": "Plus d’informations sur",
+              "linkValue": "Stib",
+              "link": "https://www.stib-mivb.be"
+            }
+          ]
+        },
+        "accordeon": [
+          {
+            "titleAccordeon": "Restaurants",
+            "listAccordeon": [
+              {
+                "imgAccordeon": "imgTourisme/detail/resto-palaisRoyal1.webp",
+                "altImgAccordeon": "ecailler",
+                "listName": "L'Ecailler",
+                "infoAccordeon": "Rue Bodenbroek 18",
+                "telAccordeon": "02 512 87 51",
+                "listLink": "https://lecaillerdupalaisroyal.be"
+              },
+              {
+                "imgAccordeon": "imgTourisme/detail/resto-palaisRoyal2.webp",
+                "altImgAccordeon": "Le Standby",
+                "listName": "Le Standby Resto",
+                "infoAccordeon": "Rue de Namur 72",
+                "telAccordeon": "02 245 29 41",
+                "listLink": "https://www.lestandby.com"
+              }
+            ]
+          },
+          {
+            "titleAccordeon": "Bars",
+            "listAccordeon": [
+              {
+                "imgAccordeon": "imgTourisme/detail/bar-palaisRoyal1.webp",
+                "altImgAccordeon": "L'Athenee",
+                "listName": "L'Athénée",
+                "infoAccordeon": "Rue Jules Bouillon 2",
+                "telAccordeon": "02 513 80 36",
+                "listLink": "https://fr.foursquare.com/v/lathénée/4b0d9031f964a520264b23e3"
+              },
+              {
+                "imgAccordeon": "imgTourisme/detail/bar-palaisRoyal2.webp",
+                "altImgAccordeon": "Volle Brol",
+                "listName": "Volle Brol",
+                "infoAccordeon": "Pl. du Jeu de Balle",
+                "telAccordeon": "02 503 90 99",
+                "listLink": "https://volle-brol.business.site"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "dataV": "0.1",
+      "urlPage": "manneken",
+      "detailTitre": "Manneken pis",
+      "img": "imgTourisme/manneken-visit.webp",
+      "detail": {
+        "imgDetail": "imgTourisme/detail/mannekenDetail.webp",
+        "imgDetailAlt": "manneken pis",
+        "sectionInfo": {
+          "titleInfo": "Quelques informations sur le lieu",
+          "paragraphInfo": "Manneken-Pis, signifiant « le petit homme qui pisse » en néerlandais, est une fontaine sous la forme d'une statue en bronze de 55,5 centimètres de hauteur1,2 (61 cm avec le socle) qui représente un petit garçon nu en train d'uriner. Elle est située au cœur de Bruxelles, à deux pas de la Grand-Place",
+          "imgInfo": "imgTourisme/detail/manneken-info.webp",
+          "bgImage": "bg_manneken.webp"
+        },
+        "sectionHistory": {
+          "titleHistory": "Son histoire, culture",
+          "paragraphHistory": "La plus ancienne mention de l'existence de Manneken-Pis se trouve dans un texte administratif, qu'on peut dater de 1451-1452, sur les conduites d'eau alimentant les fontaines bruxelloises. Erronément, certains ont fait remonter la statue à un texte de 1388 voire 1377 qui fait référence en réalité à la « fontaine du petit Julien » (Juliaenkensborre) en confondant à tort deux fontaines pourtant bien distinctes."
+        },
+        "sectionPublicTransport": {
+          "titleTransport": "Comment s’y rendre",
+          "publicTransport": [
+            {
+              "dataV": "0.08",
+              "svgTransport": "icon/bus.svg",
+              "transport": "En bus",
+              "numberTransport": "Ligne : 214, 29, 351, 46 ,71 ,95",
+              "infoTransport": "Plus d’informations sur",
+              "linkValue": "Stib",
+              "link": "https://www.stib-mivb.be"
+            },
+            {
+              "dataV": "",
+              "svgTransport": "icon/train.svg",
+              "transport": "En train",
+              "numberTransport": "IC, S10, S2, S8",
+              "infoTransport": "Plus d’informations sur",
+              "linkValue": "Sncb",
+              "link": "https://www.belgiantrain.be"
+            },
+            {
+              "dataV": "-0.08",
+              "svgTransport": "icon/train.svg",
+              "transport": "En tram",
+              "numberTransport": "Ligne : 4",
+              "infoTransport": "Plus d’informations sur",
+              "linkValue": "Stib",
+              "link": "https://www.stib-mivb.be"
+            }
+          ]
+        },
+        "accordeon": [
+          {
+            "titleAccordeon": "Restaurants",
+            "listAccordeon": [
+              {
+                "imgAccordeon": "imgTourisme/detail/resto-manneken1.webp",
+                "altImgAccordeon": "Poechenellekelder",
+                "listName": "Poechenellekelder",
+                "infoAccordeon": "Rue du Chêne 5",
+                "telAccordeon": "02 511 92 62",
+                "listLink": "https://poechenellekelder.be/en"
+              },
+              {
+                "imgAccordeon": "imgTourisme/detail/resto-manneken2.webp",
+                "altImgAccordeon": "Le Cercle des Voyageurs",
+                "listName": "Le Cercle des Voyageurs",
+                "infoAccordeon": "Rue des Grands Carmes 18",
+                "telAccordeon": "02 514 39 49",
+                "listLink": "https://www.lecercledesvoyageurs.com/fr/"
+              }
+            ]
+          },
+          {
+            "titleAccordeon": "Bars",
+            "listAccordeon": [
+              {
+                "imgAccordeon": "imgTourisme/detail/bar-manneken1.webp",
+                "altImgAccordeon": "Au Brasseur",
+                "listName": "Au Brasseur",
+                "infoAccordeon": "Rue du Marché aux Fromages 3",
+                "telAccordeon": "02 512 68 68",
+                "listLink": "https://fr.foursquare.com/v/au-brasseur/4eb69d3cf790d87d0336fce1"
+              },
+              {
+                "imgAccordeon": "imgTourisme/detail/bar-manneken2.webp",
+                "altImgAccordeon": "Little Delirium",
+                "listName": "Little Delirium",
+                "infoAccordeon": "Rue du Marché aux Fromages 9",
+                "telAccordeon": "02 511 95 50",
+                "listLink": "https://www.deliriumvillage.com"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+    "contentNocturnal": [
+      {
+        "dataV" : "-0.13",
+        "categorie" : "Spectacles",
+        "nocturnalLink": "vieNocturne/haroun",
+        "nocturnalImg": "imgNocturne/haroun.webp",
+        "nocturnalTitle": "Haroun",
+        "nocturnalTxt": "Avec son style impeccable et son analyse des failles de notre société, Haroun a cassé les codes de l’humour. Haroun annonce son retour au Cirque Royal le samedi 11 février 2023 !"
+      },
+      {
+        "dataV" : "-0.13",
+        "categorie" : "Clubs",
+        "nocturnalLink": "vieNocturne/mirano",
+        "nocturnalImg": "imgNocturne/mirano.webp",
+        "nocturnalTitle": "Mirano",
+        "nocturnalTxt": "Souvenez-vous, c’étaient les années 80 : New York avait le Studio 54, Paris le Palace, à Bruxelles une jeunesse ivre de new wave et de funk électrisait le dancefloor du Mirano Continental"
+      },
+      {
+        "dataV" : "-0.13",
+        "categorie" : "Spectacles",
+        "nocturnalLink": "vieNocturne/sacre-printemps",
+        "nocturnalImg": "imgNocturne/sacre.webp",
+        "nocturnalTitle": "Sacre printemps",
+        "nocturnalTxt": "Le Sacre du printemps issu d'une collaboration entre le compositeur Stravinsky et le chorégraphe Nijinski : une révolution! Avec «Le Sacre du printemps » s'ouvre une nouvelle ère, celle du spectacle total. "
+      },
+      {
+        "dataV" : "-0.13",
+        "categorie" : "Spectacles",
+        "nocturnalLink": "vieNocturne/ksi",
+        "nocturnalImg": "imgNocturne/ksi.webp",
+        "nocturnalTitle": "Ksi",
+        "nocturnalTxt": "Véritable touche-à-tout, Olajide William Olatunji alias KSI s’est fait connaître sur YouTube. The Sunday Times l’a classé deuxième parmi les créateurs de contenus les plus influents du Royaume-Uni."
+      },
+      {
+        "dataV" : "-0.13",
+        "categorie" : "Clubs",
+        "nocturnalLink": "vieNocturne/bloody_louis",
+        "nocturnalImg": "imgNocturne/bloody.webp",
+        "nocturnalTitle": "Bloody Louis",
+        "nocturnalTxt": "Le Bloody Louis, ambiance totalement différente pour cette boîte de nuit qui entend se démarquer de toutes ses concurrentes"
+      }
+    ],
+    "nocturneDetail": [
+      {
+        "img" : "imgNocturne/haroun.webp",
+        "urlPage": "haroun",
+        "heroNoctune": {
+          "heroTitle": "Haroun",
+          "imgBg": "imgNocturne/detail/haroun-detail.webp",
+          "heroAlt": "haroun"
+        },
+        "nocturneMain" : {
+          "sectionIntro" : {
+          "spectacleTitle": "Haroun en spectacle",
+          "spectacleTxtSecondary" : "Après le triomphe de sa venue le mois dernier, Haroun annonce son retour le samedi 11 février 2023!",
+          "spectacleTxtPrimary" : "Avec son style impeccable et son analyse des failles de notre société, Haroun a cassé les codes de l'humour. Sur internet ses vidéos iconiques font des millions de vues.  Il aime proposer de la nouveauté et surprendre son public. Après le succès incontesté de ses pasquinades, il est de retour sur scène avec son nouveau spectacle “Seuls”.",
+          "bgNocturne" : "imgNocturne/bg-microphone.webp",
+          "bgNocturneAlt" : "microphone"
+        },
+          "sectionPlace" : {
+            "placeImg" : [
+              {
+               "imgCarousel" : "imgNocturne/detail/cirque1.webp", 
+               "imgAlt" : "cirque royal"
+              },
+              {
+                "imgCarousel" : "imgNocturne/detail/cirque2.webp",
+                "imgAlt" : "cirque royal"
+              },
+              {
+                "imgCarousel" :  "imgNocturne/detail/cirque3.webp",
+                "imgAlt" : "cirque royal"
+              }
+            ],
+            "infoEvent" : [
+              {
+              "placeTitle" : "Adresse",
+              "place" : ["Cirque Royal de Bruxelles", "Rue de l’Enseignement 81"]
+              },
+              {
+                "placeTitle" : "En transport",
+                "place" : ["Metro : ligne 2 / 6", "Bus : 38"]
+              }
+            ],
+            "linkSite" : "https://www.cirque-royal-bruxelles.be"
+          }
+        }
+      },
+      {
+        "urlPage": "ksi",
+        "img" : "imgNocturne/ksi.webp",
+        "heroNoctune": {
+          "heroTitle": "Ksi",
+          "imgBg": "imgNocturne/detail/ksi-detail.webp",
+          "heroAlt": "ksi"
+        },
+        "nocturneMain" : {
+          "sectionIntro" : {
+          "spectacleTitle": "Ksi à l'Ancienne Belgique",
+          "spectacleTxtSecondary" : "Véritable touche-à-tout, de son vrai nom Olajide William Olatunji alias KSI s’est fait connaître sur YouTube.",
+          "spectacleTxtPrimary" : "The Sunday Times l’a classé deuxième parmi les créateurs de contenus les plus influents du Royaume-Uni. Il cumule aujourd’hui quelque 23 millions de followers sur sa chaîne. KSI fait le buzz avec ses vlogs, ses vidéos humoristiques, ses vidéos de gaming et en particulier ses commentaires sur des parties de FIFA.",
+          "bgNocturne" : "imgNocturne/bg-microphone.webp",
+          "bgNocturneAlt" : "microphone"
+        },
+          "sectionPlace" : {
+            "placeImg" : [
+              {
+               "imgCarousel" : "imgNocturne/detail/ancienne_belgique1.webp", 
+               "imgAlt" : "anciennce belgique exterieure"
+              },
+              {
+                "imgCarousel" : "imgNocturne/detail/ancienne_belgique2.webp",
+                "imgAlt" : "anciennce belgique interieure"
+              }
+            ],
+            "infoEvent" : [
+              {
+              "placeTitle" : "Adresse",
+              "place" : ["Ancienne Belgique", "Boulevard Anspach 110"]
+              },
+              {
+                "placeTitle" : "En transport",
+                "place" : ["Metro : ligne 2 / 6", "Bus : 38"]
+              }
+            ],
+            "linkSite" : "https://www.abconcerts.be/fr/"
+          }
+        }
+      },
+      {
+        "urlPage": "bloody_louis",
+        "img" : "imgNocturne/bloody.webp",
+        "heroNoctune": {
+          "heroTitle": "Bloody Louis",
+          "imgBg": "imgNocturne/detail/bloody_detail.webp",
+          "heroAlt": "bloody"
+        },
+        "nocturneMain" : {
+          "sectionIntro" : {
+          "spectacleTitle": "Le Bloody Louis",
+          "spectacleTxtSecondary" : "La galerie Louise accueille un nouveau club : le Bloody Louis situé sur la célèbre avenue Louise à Bruxelles",
+          "spectacleTxtPrimary" : "Le Bloody Louis avec ses canapés cuir Chesterfield, son baby-foot et son flipper, c’est le lieu de rendez-vous des amoureux de musique. Il s'adresse à un public varié et cosmopolite qui s’éclate sur du hiphop, de la house et de la musique électronique. En 4 ans d’existence ils ont accueilli des artistes comme Dj Snake, Drake, Migos, Future, Diplo, Travis Scott, Tory Lanez, PNL, Martin Solveig",
+          "bgNocturne" : "imgNocturne/bg-club.webp",
+          "bgNocturneAlt" : "verre"
+        },
+          "sectionPlace" : {
+            "placeImg" : [
+              {
+               "imgCarousel" : "imgNocturne/detail/bloody1.webp", 
+               "imgAlt" : "bloody louis"
+              },
+              {
+                "imgCarousel" : "imgNocturne/detail/bloody2.webp",
+                "imgAlt" : "bloody louis"
+              }
+            ],
+            "infoEvent" : [
+              {
+              "placeTitle" : "Adresse",
+              "place" : ["Avenue Louise 32 ", "1050 Ixelles"]
+              },
+              {
+                "placeTitle" : "En transport",
+                "place" : ["Metro : ligne 2 / 6", "Bus : 12, 136, 33, 48, 64"]
+              }
+            ],
+            "linkSite" : "https://bloodylouis.be"
+          }
+        }
+      },
+      {
+        "urlPage": "mirano",
+        "img" : "imgNocturne/mirano.webp",
+        "heroNoctune": {
+          "heroTitle": "Mirano",
+          "imgBg": "imgNocturne/detail/mirano-detail.webp",
+          "heroAlt": "mirano"
+        },
+        "nocturneMain" : {
+          "sectionIntro" : {
+          "spectacleTitle": "Le Mirano",
+          "spectacleTxtSecondary" : "Souvenez-vous, c’étaient les années 80 : New York avait le Studio 54, Paris le Palace, à Bruxelles une jeunesse ivre de new wave.",
+          "spectacleTxtPrimary" : "Jamais à Bruxelles on avait vu une telle explosion de lumières et d’effets ! Le Mirano ? Un ancien cinéma revisité, 100% voué au clubbing, où les princes de la nuit, les acteurs, les musicos, les chichi boys et les belles gigolettes en aventure mondaine se mêlaient dans une nuit joyeusement bariolée. Aujourd'hui le Mirano fait toujours briller les nuits bruxelloises.",
+          "bgNocturne" : "imgNocturne/bg-club.webp",
+          "bgNocturneAlt" : "verre"
+        },
+          "sectionPlace" : {
+            "placeImg" : [
+              {
+               "imgCarousel" : "imgNocturne/detail/mirano1.webp", 
+               "imgAlt" : "mirano interieure"
+              },
+              {
+                "imgCarousel" : "imgNocturne/detail/mirano2.webp",
+                "imgAlt" : "mirano exterieure"
+              },
+              {
+                "imgCarousel" :  "imgNocturne/detail/mirano3.webp",
+                "imgAlt" : "mirano interieure"
+              }
+            ],
+            "infoEvent" : [
+              {
+              "placeTitle" : "Adresse",
+              "place" : ["Chaussée de Louvain", "1210 Saint-Josse-Ten-Noode"]
+              },
+              {
+                "placeTitle" : "En transport",
+                "place" : ["Metro : ligne 2 / 6", "Bus : 63, 29, 65, 66"]
+              }
+            ],
+            "linkSite" : "http://www.miranobrussels.com"
+          }
+        }
+      },
+      {
+        "urlPage": "sacre-printemps",
+        "img" : "imgNocturne/sacre.webp",
+        "heroNoctune": {
+          "heroTitle": "Sacre printemps",
+          "imgBg": "imgNocturne/detail/sacre-detail.webp",
+          "heroAlt": "Sacre printemps"
+        },
+        "nocturneMain" : {
+          "sectionIntro" : {
+          "spectacleTitle": "Le Sacre printemps",
+          "spectacleTxtSecondary" : "Le Sacre du printemps issu d'une collaboration entre le compositeur Stravinsky et le chorégraphe Nijinski : une révolution! ",
+          "spectacleTxtPrimary" : "Igor Stravinsky a 29 ans quand il compose «Le Sacre». Après «L'Oiseau de feu», le Sacre du printemps apparaît comme un coup de maître, où le dynamisme et la précision éblouissent. 1913, c'est la cinquième saison des Ballets russes de Serge Diaghilev. Réputée dans toute l'Europe, la troupe ne s'attend pas au scandale provoqué par Le Sacre au soir de sa première… ",
+          "bgNocturne" : "imgNocturne/bg-microphone.webp",
+          "bgNocturneAlt" : "microphone"
+        },
+        "sectionPlace" : {
+          "placeImg" : [
+            {
+             "imgCarousel" : "imgNocturne/detail/cirque1.webp", 
+             "imgAlt" : "cirque royal"
+            },
+            {
+              "imgCarousel" : "imgNocturne/detail/cirque2.webp",
+              "imgAlt" : "cirque royal"
+            },
+            {
+              "imgCarousel" :  "imgNocturne/detail/cirque3.webp",
+              "imgAlt" : "cirque royal"
+            }
+          ],
+          "infoEvent" : [
+            {
+            "placeTitle" : "Adresse",
+            "place" : ["Cirque Royal de Bruxelles", "Rue de l’Enseignement 81"]
+            },
+            {
+              "placeTitle" : "En transport",
+              "place" : ["Metro : ligne 2 / 6", "Bus : 38"]
+            }
+          ],
+          "linkSite" : "https://www.cirque-royal-bruxelles.be"
+        }
+        }
+      }
+    ]
+}
