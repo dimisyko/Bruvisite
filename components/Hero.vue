@@ -27,11 +27,7 @@ export default {
   name: "Hero",
   props: ["title", "subTitle","paragraphe", "img", "alt", "classSvg"],
   mounted(){
-    window.addEventListener('resize', this.anim)
     this.anim()
-  },
-  beforeDestroy(){
-    window.removeEventListener('resize', this.anim)
   },
   methods :{
       anim(){

@@ -28,12 +28,10 @@ export default {
   },
   
   mounted(){
-    window.addEventListener('resize', this.anim)
     this.anim()
     this.lerp()
   },
   beforeDestroy(){
-      window.removeEventListener('resize', this.anim)
       cancelAnimationFrame(this.raf)
   },
   methods :{

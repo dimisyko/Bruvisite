@@ -162,14 +162,12 @@ asyncData ({ params }) {
     };
   },
   mounted(){
-    window.addEventListener('resize', this.anim)
     window.addEventListener('scroll', this.scrollWord)
     this.anim()
     this.split()
   },
 beforeDestroy(){
       window.removeEventListener('scroll', this.scrollWord)
-      window.removeEventListener('resize', this.anim)
 },
 
   methods:{
