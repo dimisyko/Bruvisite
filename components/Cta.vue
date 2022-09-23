@@ -4,14 +4,14 @@
       <div class="bg-img-atomium bg-img"></div>
       <h2 class="cta__title">Une question ? Contactez-nous</h2>
       <button type="button" class="flex-align | btn-h | btn-hover" aria-label="openForm" @click="openForm()">
-        <div class="btn-primary">
+        <span class="btn-primary">
           <span
             v-for="txtSpan in 2"
             :key="txtSpan"
             class="btn-primary__txt translate"
             >Contact</span
           >
-        </div>
+        </span>
       </button>
       <div class="bg-img-manneken bg-img"></div>
   </section>

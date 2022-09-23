@@ -13,9 +13,9 @@
            </figure>
     </div>
       <div :class="classSvg">
-            <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	               viewBox="0 0 1918.3 288.2" style="enable-background:new 0 0 1918.3 288.2;" xml:space="preserve">
-                 <path id="Tracé_22" class="st0" fill="#5190B9" d="M1918.3,0C866.7,648.4,0,0,0,0H1918.3z"/>
+                 <path class="st0" fill="#5190B9" d="M1918.3,0C866.7,648.4,0,0,0,0H1918.3z"/>
             </svg>
         </div>
   </section>

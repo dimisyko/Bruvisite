@@ -2,8 +2,8 @@
     <div class="modal-contact | flex | fade">
          <button type="button" class="btn-secondary | btn-h | btn-close | fadeContact" aria-label="closeForm" @click="$emit('close')">
           <svg v-for="svg in 2" :key="svg" xmlns="http://www.w3.org/2000/svg" class="center-absolute translate" width="24" height="20" viewBox="0 0 22 22">
-            <path id="Tracé_13" data-name="Tracé 13" d="M4490.127,9591.369l20.573,20.658" transform="translate(-4489.678 -9591.369)" fill="none" stroke="#F2A800" stroke-width="2"/>
-            <path id="Tracé_14" data-name="Tracé 14" d="M4510.7,9591.369l-21.022,20.863" transform="translate(-4489.678 -9591.369)" fill="none" stroke="#F2A800" stroke-width="2"/>
+            <path data-name="Tracé 13" d="M4490.127,9591.369l20.573,20.658" transform="translate(-4489.678 -9591.369)" fill="none" stroke="#F2A800" stroke-width="2"/>
+            <path data-name="Tracé 14" d="M4510.7,9591.369l-21.022,20.863" transform="translate(-4489.678 -9591.369)" fill="none" stroke="#F2A800" stroke-width="2"/>
           </svg>
         </button> 
       <div class="modal-contact__left | d-flex">

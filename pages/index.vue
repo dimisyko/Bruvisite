@@ -29,7 +29,7 @@
     <main class="site-main fade" role="main">
       <section ref="intro" class="intro w-90">
         <div class="intro__svg-txt">
-             <svg class="bg-circle" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+             <svg class="bg-circle" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	            viewBox="0 0 1325 1325" style="enable-background:new 0 0 1325 1325;" xml:space="preserve">
            <g id="Ellipse_43">
 	           <circle fill="none" class="st0" cx="662.5" cy="662.5" r="662.5"/>
@@ -53,8 +53,8 @@
          <div class="underline"> Voir plus </div>
           <div class="btn-right btn-tertiary">
             <svg v-for="svg in 2" :key="svg" data-name="Composant 13 – 1" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 30.361 30.361" class="center-absolute">
-              <path id="Tracé_11" data-name="Tracé 11" d="M147.969,8403.5h30.361" transform="translate(-147.969 -8388.319)" fill="none" stroke="white" stroke-width="2"/>
-              <path id="Tracé_12" data-name="Tracé 12" d="M147.969,8403.5h30.361" transform="translate(-8388.32 178.329) rotate(-90)" fill="none" stroke="white" stroke-width="2"/>
+              <path data-name="Tracé 11" d="M147.969,8403.5h30.361" transform="translate(-147.969 -8388.319)" fill="none" stroke="white" stroke-width="2"/>
+              <path data-name="Tracé 12" d="M147.969,8403.5h30.361" transform="translate(-8388.32 178.329) rotate(-90)" fill="none" stroke="white" stroke-width="2"/>
            </svg>
         </div>
         </nuxt-link>
@@ -74,9 +74,9 @@
       <!--SECTION NOCTURNE-->
       <section class="nocturnal">
         <div class="nocturnal-svg-top">
-          <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	            viewBox="0 0 1918.3 288.2" style="enable-background:new 0 0 1918.3 288.2;" xml:space="preserve">
-            <path id="Tracé_21" class="st0" fill="#656565" d="M0,288.2c1051.5-648.4,1918.3,0,1918.3,0H0z"/>
+            <path class="st0" fill="#656565" d="M0,288.2c1051.5-648.4,1918.3,0,1918.3,0H0z"/>
           </svg>
           </div>
             <div class="nocturnal__container w-90">
@@ -96,8 +96,8 @@
                               <div class="underline"> Voir plus </div>
                               <div class="btn-right | btn-tertiary">
                                 <svg v-for="svg in 2" :key="svg" data-name="Composant 13 – 1" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 30.361 30.361" class="center-absolute">
-                                  <path id="Tracé_11" data-name="Tracé 11" d="M147.969,8403.5h30.361" transform="translate(-147.969 -8388.319)" fill="none" stroke="white" stroke-width="2"/>
-                                  <path id="Tracé_12" data-name="Tracé 12" d="M147.969,8403.5h30.361" transform="translate(-8388.32 178.329) rotate(-90)" fill="none" stroke="white" stroke-width="2"/>
+                                  <path data-name="Tracé 11" d="M147.969,8403.5h30.361" transform="translate(-147.969 -8388.319)" fill="none" stroke="white" stroke-width="2"/>
+                                  <path data-name="Tracé 12" d="M147.969,8403.5h30.361" transform="translate(-8388.32 178.329) rotate(-90)" fill="none" stroke="white" stroke-width="2"/>
                                </svg>
                             </div>
                            </nuxt-link>
@@ -106,9 +106,9 @@
                 </div>
             </div>
             <div class="nocturnal-svg-bottom">
-            <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	               viewBox="0 0 1918.3 288.2" style="enable-background:new 0 0 1918.3 288.2;" xml:space="preserve">
-                 <path id="Tracé_22" class="st0" fill="#656565" d="M1918.3,0C866.7,648.4,0,0,0,0H1918.3z"/>
+                 <path class="st0" fill="#656565" d="M1918.3,0C866.7,648.4,0,0,0,0H1918.3z"/>
             </svg>
         </div>
       </section>

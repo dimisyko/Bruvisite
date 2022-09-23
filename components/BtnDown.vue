@@ -1,6 +1,6 @@
 <template>
      <button type="button" aria-label="down" class="btn-down | anim-span | fadeY" @click="scrollTo()" @mouseover="v = true" @mouseleave="v = false">
-    <svg class="down" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    <svg class="down" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
     viewBox="0 0 100.2 25.6" style="enable-background:new 0 0 100.2 25.6;" xml:space="preserve">
 <path id="Tracé_13_00000066484278411241706140000008712720234854041759_" class="st0" fill="none" stroke="#ffb300" stroke-width="2" d="M1.3,2.7c2.3-0.1,9.6-0.2,12.5,1.9
    c4.4,3,7.1,11.8,0.7,17.4c-4.3,3.8-13.7,2.3-13.7,2.3l0-22.6"/>

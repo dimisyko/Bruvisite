@@ -1,13 +1,13 @@
 <template>
     <nuxt-link :to="link" class="btn-back anim-span">
-            <svg class="crossBtnBack" id="Composant_2_1" data-name="Composant 2 – 1" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 37.331 38.04">
-                <line id="Ligne_8" data-name="Ligne 8" x2="37.331" transform="translate(0 19.02)" fill="none" stroke="#febf29" stroke-width="2"/>
-                <line id="Ligne_9" data-name="Ligne 9" y2="38.04" transform="translate(18.666)" fill="none" stroke="#febf29" stroke-width="2"/>
+            <svg class="crossBtnBack" data-name="Composant 2 – 1" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 37.331 38.04">
+                <line data-name="Ligne 8" x2="37.331" transform="translate(0 19.02)" fill="none" stroke="#febf29" stroke-width="2"/>
+                <line data-name="Ligne 9" y2="38.04" transform="translate(18.666)" fill="none" stroke="#febf29" stroke-width="2"/>
               </svg>
               <svg class="circle" xmlns="http://www.w3.org/2000/svg" width="60" height="62" viewBox="0 0 69 69">
                 <g transform="translate(-115.6 -28.1)">
-                  <path ref="svg" class="stroke" id="Tracé_13" data-name="Tracé 13" d="M150.1,96.6a34,34,0,1,1,34-34A34.131,34.131,0,0,1,150.1,96.6Z" transform="translate(0 0)" fill="none" stroke="#febf29" stroke-miterlimit="10" stroke-width="2"/>
-                  <path class="opacity" id="Tracé_13" data-name="Tracé 13" d="M150.1,96.6a34,34,0,1,1,34-34A34.131,34.131,0,0,1,150.1,96.6Z" transform="translate(0 0)" fill="none" stroke="#febf29" stroke-miterlimit="10" stroke-width="1"/>
+                  <path ref="svg" class="stroke" data-name="Tracé 13" d="M150.1,96.6a34,34,0,1,1,34-34A34.131,34.131,0,0,1,150.1,96.6Z" transform="translate(0 0)" fill="none" stroke="#febf29" stroke-miterlimit="10" stroke-width="2"/>
+                  <path class="opacity" data-name="Tracé 13" d="M150.1,96.6a34,34,0,1,1,34-34A34.131,34.131,0,0,1,150.1,96.6Z" transform="translate(0 0)" fill="none" stroke="#febf29" stroke-miterlimit="10" stroke-width="1"/>
                 </g>
               </svg>
         </nuxt-link>

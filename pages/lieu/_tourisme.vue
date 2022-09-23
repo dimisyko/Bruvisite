@@ -57,9 +57,9 @@
             </section>
             <section class="accordeon">
               <div class="accordeon-svg-top">
-                <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	                   viewBox="0 0 1918.3 288.2" style="enable-background:new 0 0 1918.3 288.2;" xml:space="preserve">
-                    <path id="Tracé_21" class="st0" fill="#FFFFFF" d="M0,288.2c1051.5-648.4,1918.3,0,1918.3,0H0z"/>
+                    <path class="st0" fill="#FFFFFF" d="M0,288.2c1051.5-648.4,1918.3,0,1918.3,0H0z"/>
                 </svg>
               </div>
               <div class="accordeon__bloc w-90">
@@ -70,8 +70,8 @@
                     <h4>{{barResto.listAccordeon.length + " " + barResto.titleAccordeon}}</h4>
                     <div class="cross" ref="rotateCross">
                       <svg id="more" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 55.331 57.04">
-                      <line id="Ligne_8" data-name="Ligne 8" x2="55.331" transform="translate(0 28.52)" fill="none" stroke="#5190B9" stroke-width="2"/>
-                       <line id="Ligne_9" data-name="Ligne 9" y2="57.04" transform="translate(27.665)" fill="none" stroke="#5190B9" stroke-width="2"/>
+                      <line data-name="Ligne 8" x2="55.331" transform="translate(0 28.52)" fill="none" stroke="#5190B9" stroke-width="2"/>
+                       <line data-name="Ligne 9" y2="57.04" transform="translate(27.665)" fill="none" stroke="#5190B9" stroke-width="2"/>
                       </svg>
                     </div>
                   </div>
@@ -93,9 +93,9 @@
                 </div>
                 </div>
               <div class="accordeon-svg-bottom">
-                    <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	                      viewBox="0 0 1918.3 288.2" style="enable-background:new 0 0 1918.3 288.2;" xml:space="preserve">
-                        <path id="Tracé_22" class="st0" fill="#FFFFFF" d="M1918.3,0C866.7,648.4,0,0,0,0H1918.3z"/>
+                        <path class="st0" fill="#FFFFFF" d="M1918.3,0C866.7,648.4,0,0,0,0H1918.3z"/>
                      </svg>
               </div>
             </section>
