@@ -3,7 +3,7 @@
       <FormContact v-on:close="closeForm()"/>
       <div class="bg-img-atomium bg-img"></div>
       <h2 class="cta__title">Une question ? Contactez-nous</h2>
-      <button type="buttton" class="flex-align | btn-h | btn-hover" aria-label="openForm" @click="openForm()">
+      <button type="button" class="flex-align | btn-h | btn-hover" aria-label="openForm" @click="openForm()">
         <div class="btn-primary">
           <span
             v-for="txtSpan in 2"
