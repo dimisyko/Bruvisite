@@ -1,5 +1,4 @@
 <template>
-  <div>
     <section class="error w-90">
       <div class="error__txt d-flex">
         <h2 v-if="error.statusCode === 404">La page n'existe pas</h2>
@@ -8,7 +7,6 @@
         </nuxt-link>
       </div>
     </section>
-  </div>
 </template>
 
 <script>

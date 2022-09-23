@@ -71,7 +71,7 @@
         <nav class="menu__nav--nav">
               <ul>
                 <li class="menu__nav--list" v-for="(i, item) in nav.lien" :key="item">
-                    <nuxt-link :to="i.url" ref="link" @mouseenter.native="changeImg(item)" class="nav-link menu__anim">{{ i.nameLien }}</nuxt-link>
+                    <nuxt-link :to="i.url" ref="link" @mouseenter.native="changeImg(item)" class="nav-link menu__anim">{{ i.nameLien }}<sup>0{{item + 1}}</sup></nuxt-link>
                 </li>
               </ul>
         </nav>
@@ -179,7 +179,7 @@ export default {
       },"sameTime");
     this.tlOpen.from(".menu__anim",{
         duration: 0.7,
-        stagger: 0.05,
+        stagger: 0.07,
         y: "150%",
         opacity : 0
       },"-=0.65");
@@ -239,6 +239,9 @@ export default {
 }
 .menu__wrapper {
   width: 14rem;
+}
+sup{
+  margin-left: 12px;
 }
 .social {
   position: relative;

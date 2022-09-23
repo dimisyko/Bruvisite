@@ -31,12 +31,12 @@
                 <div class="btn__slide-carou">
                 <button type="button" aria-label="previous" class="btn-secondary btn-h hide" ref="prev" @click="prev()">
                   <svg v-for="svg in 2" :key="svg" xmlns="http://www.w3.org/2000/svg" width="13.964" height="23.642" viewBox="0 0 13.964 23.642" class="center-absolute translate">
-                    <path id="Tracé_5" data-name="Tracé 5" d="M286.281,2176.5l11.892,12.873,11-12.873" transform="translate(2190.125 -285.914) rotate(90)" fill="none" stroke="white" stroke-width="2"/>
+                    <path data-name="Tracé 5" d="M286.281,2176.5l11.892,12.873,11-12.873" transform="translate(2190.125 -285.914) rotate(90)" fill="none" stroke="white" stroke-width="2"/>
                   </svg>
                 </button>
                 <button type="button" aria-label="next" class="btn-secondary btn-h hide" ref="next" @click="next()">
                   <svg v-for="svg in 2" :key="svg" xmlns="http://www.w3.org/2000/svg" width="13" height="22" viewBox="0 0 13.964 23.642" class="center-absolute translate">
-                    <path id="Tracé_5" data-name="Tracé 5" d="M286.281,2176.5l11.892,12.873,11-12.873" transform="translate(-2176.161 309.556) rotate(-90)" fill="none" stroke="white" stroke-width="2"/>
+                    <path data-name="Tracé 5" d="M286.281,2176.5l11.892,12.873,11-12.873" transform="translate(-2176.161 309.556) rotate(-90)" fill="none" stroke="white" stroke-width="2"/>
                   </svg>
                 </button>
                 </div>
@@ -59,7 +59,7 @@
               <a :href="nocturne.nocturneMain.sectionPlace.linkSite" target="_blank" class="btn-hover flex-align" rel="noopener noreferrer">   
           <div class="underline">Plus d'info</div>
           <div class="btn-right btn-tertiary">
-             <svg v-for="svg in 2" :key="svg" id="Composant_13_1" data-name="Composant 13 – 1" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 30.361 30.361" class="center-absolute">
+             <svg v-for="svg in 2" :key="svg" data-name="Composant 13 – 1" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 30.361 30.361" class="center-absolute">
               <path id="Tracé_11" data-name="Tracé 11" d="M147.969,8403.5h30.361" transform="translate(-147.969 -8388.319)" fill="none" stroke="white" stroke-width="2"/>
               <path id="Tracé_12" data-name="Tracé 12" d="M147.969,8403.5h30.361" transform="translate(-8388.32 178.329) rotate(-90)" fill="none" stroke="white" stroke-width="2"/>
            </svg>
