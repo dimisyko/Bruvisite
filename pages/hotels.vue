@@ -10,7 +10,7 @@
         alt="hotel"
         classSvg="hero-svg-bottom"
       />
-      <main class="site-main fade" role="main">
+      <main class="site-main fade">
           <section class="hotel-section w-90">
               <DormirSection v-for="(dormir, i) in dataDormir.hotel" :key="i"
               v-bind:img="dormir.hotelImg"

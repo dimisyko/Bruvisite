@@ -9,7 +9,7 @@
       v-bind:alt="visit.detail.imgDetailAlt"
       />
       <BtnBack link= "/visite"/>
-         <main class="site-main fade" role="main">
+         <main class="site-main fade">
           <div class="bg-title" data-v="0.35" v-animate-parallax:[directionX]="2">
            <span class="bigTxt" v-for="bgTitle in 3" :key="bgTitle"> {{visit.detailTitre}} - </span>
            </div>
@@ -69,7 +69,7 @@
                   <div class="accordeon__head d-flex-align-item">
                     <h4>{{barResto.listAccordeon.length + " " + barResto.titleAccordeon}}</h4>
                     <div class="cross" ref="rotateCross">
-                      <svg id="more" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 55.331 57.04">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 55.331 57.04">
                       <line data-name="Ligne 8" x2="55.331" transform="translate(0 28.52)" fill="none" stroke="#5190B9" stroke-width="2"/>
                        <line data-name="Ligne 9" y2="57.04" transform="translate(27.665)" fill="none" stroke="#5190B9" stroke-width="2"/>
                       </svg>

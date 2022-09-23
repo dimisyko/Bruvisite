@@ -12,7 +12,7 @@
         alt="atomium-home"
         classSvg="hero-svg-right"
       />
-      <main class="site-main fade" role="main">
+      <main class="site-main fade">
         <section class="list">
 
           <div class="list__wrapper clipPathLeave" v-for="(culture, i) in dataCulture.detailPage" :key="i" :data-v="culture.dataV" ref="item">

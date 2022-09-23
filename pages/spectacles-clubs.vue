@@ -10,7 +10,7 @@
         alt="spectacle"
         classSvg="hero-svg-bottom"
       />
-      <main class="site-main | nocturnal-main | fade" role="main">
+      <main class="site-main | nocturnal-main | fade">
         <section class="nocturne__container flex w-90">
           <div class="nocturnal__filter">
               <h3>Filtrer par :</h3>

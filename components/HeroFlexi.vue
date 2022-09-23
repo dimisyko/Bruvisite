@@ -6,7 +6,7 @@
           <nuxt-img :src="`/${img}`" quality="90" sizes="sm:100vw md:100vw lg:100vw xl:1600" class="scale-img" :alt="alt" />
       </figure>
     </div>
-    <BtnDown classBtn="hero__btn"/>
+    <BtnDown/>
 
   </section>
 </template>

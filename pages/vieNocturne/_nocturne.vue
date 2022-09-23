@@ -8,7 +8,7 @@
     v-bind:alt="nocturne.heroNoctune.heroAlt"
     />
       <BtnBack link= "/spectacles-clubs"/>
-    <main class="site-main fade" role="main">
+    <main class="site-main fade">
          <div class="bg-title" data-v="0.35" v-animate-parallax:[directionX]="2">
            <span class="bigTxt" v-for="bgTitle in 5" :key="bgTitle">{{nocturne.heroNoctune.heroTitle}} - </span>
           </div>

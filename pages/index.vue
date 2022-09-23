@@ -26,8 +26,8 @@
       </figure>
     </section>
      <!-- Main -->
-    <main class="site-main fade" role="main">
-      <section ref="intro" class="intro w-90">
+    <main class="site-main fade">
+      <div ref="intro" class="intro w-90">
         <div class="intro__svg-txt">
              <svg class="bg-circle" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	            viewBox="0 0 1325 1325" style="enable-background:new 0 0 1325 1325;" xml:space="preserve">
@@ -44,7 +44,7 @@
               <nuxt-img :src="`${imgParallax.img}`" :alt="imgParallax.alt" />
           </figure>
         
-      </section>
+      </div>
        <!-- Section-Visite -->
       <section class="visit">
         <div class="visit__txt | w-90 | space-title">
@@ -456,7 +456,7 @@ border-right: 1px solid white;
  .nocturnal__img-club{
     height: 65vw;
  }
-  .btn-down{
+  .btn-down, .intro__img{
     display: none;
   }
 .hero-home__thumbnail{
