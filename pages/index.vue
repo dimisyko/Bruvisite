@@ -60,11 +60,11 @@
         </nuxt-link>
         </div>
         <div class="visit__container">
-        <VisitImage v-for="(i, img) in dataHome.sectionTop5.imageContent" :key="img" 
-        v-bind:image="i.img" 
-        v-bind:alt="i.alt" v-bind:link="`lieu/${i.link}`" 
-        v-bind:title="i.title"
-        v-bind:data="i.dataV"
+        <VisitImage v-for="(i, img) in 3" :key="img" 
+        v-bind:image="dataHome.detailPage[img].img" 
+        v-bind:alt="dataHome.detailPage[img].detail.imgDetailAlt" v-bind:link="`lieu/${dataHome.detailPage[img].urlPage}`" 
+        v-bind:title="dataHome.detailPage[img].detailTitre"
+        v-bind:data="dataHome.detailPage[img].dataParallax"
         />
         </div>
       </section>

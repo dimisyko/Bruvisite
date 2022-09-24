@@ -24,7 +24,7 @@ Vue.directive("animate-parallax", {
         requestAnimationFrame(raf)
       } else {
        cancelAnimationFrame(raf)
-       el.style.transform = "translate3d(0px, 0px, 0px)";
+       el.removeAttribute('style')
       }
     }
     raf()

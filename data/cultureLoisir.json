@@ -18,31 +18,6 @@
       }
     ]
   },
-  "sectionTop5": {
-    "imageContent": [
-      {
-        "dataV": "0.08",
-        "title": "Atomium",
-        "img": "imgHome/atomium-visit.webp",
-        "alt": "atomium",
-        "link": "atomium"
-      },
-      {
-        "dataV": "",
-        "title": "Cinquantenaire",
-        "img": "imgHome/cinquantenaire-visit.webp",
-        "alt": "cinquantenaire",
-        "link": "cinquantenaire"
-      },
-      {
-        "dataV": "-0.08",
-        "title": "Palais royal",
-        "img": "imgHome/palaisRoyal-visit.webp",
-        "alt": "palais-royal",
-        "link": "palais-royal"
-      }
-    ]
-  },
   "sectionNocturne": {
         "imgNocturneClub": "imgHome/club.webp",
         "imgNocturneSpectale": "imgHome/spectacle.webp",
@@ -51,6 +26,7 @@
   },
   "detailPage": [
     {
+      "dataParallax": "0.08",
       "dataV": "0.1",
       "urlPage": "atomium",
       "detailTitre": " Atomium ",
@@ -138,6 +114,7 @@
       }
     },
     {
+      "dataParallax": "",
       "dataV": "-0.1",
       "urlPage": "grand_place",
       "detailTitre": " Grand place ",
@@ -234,6 +211,7 @@
       }
     },
     {
+      "dataParallax": "-0.08",
       "dataV": "0.1",
       "urlPage": "cinquantenaire",
       "detailTitre": "Cinquantenaire",
