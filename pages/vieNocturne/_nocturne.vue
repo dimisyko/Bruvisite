@@ -178,12 +178,8 @@ next(){
 },
 
     loop() {
-      this.dataNocturne.nocturneDetail.forEach((el, index) => {
-        if (el.urlPage === this.$route.params.nocturne) {
-          this.nocturne = el;
-          this.number_nocturne = index;
-        }
-      });
+    this.nocturne = this.dataNocturne.nocturneDetail.find( data => data.urlPage === this.$route.params.nocturne)
+    this.number_nocturne = this.dataNocturne.nocturneDetail.indexOf(this.nocturne)
     },
     activeClass(){
            const link =  document.querySelectorAll('.nav-link')

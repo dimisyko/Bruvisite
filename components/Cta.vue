@@ -34,7 +34,7 @@ export default {
       },"a");
       tlOpenForm.to(".modal-contact", {
           overflow: "auto",
-          zIndex : 6
+          zIndex : 10
       }, "a")
       tlOpenForm.to('.fadeContact', {
         y : "0%",

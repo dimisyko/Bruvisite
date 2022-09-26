@@ -150,12 +150,8 @@ asyncData ({ params }) {
   },
   methods: {
     loop() {
-      this.dataCulture.detailPage.forEach((el, index) => {
-         if (el.urlPage === this.$route.params.tourisme) {
-          this.visit = el;
-          this.number_visit = index
-        }
-      });
+    this.visit = this.dataCulture.detailPage.find( data => data.urlPage === this.$route.params.tourisme)
+    this.number_visit = this.dataCulture.detailPage.indexOf(this.visit)
     },
     accordeon(e, i){
           if (this.$refs.accordeon[i].classList.toggle('active')) {
