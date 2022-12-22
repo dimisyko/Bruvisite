@@ -77,7 +77,7 @@
       <div class="footer__credits">
         <div class="footer__credits-wrapper d-flex-between w-90">
         <p class="footer__privacy txt-primary">© {{GetYear}} - Tout droit réservé</p>
-        <p class="txt-primary"> Désigné et codé par <a class="folio-dev" href="https://dimi-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Sykovaris Dimitrios</a></p>
+        <p class="txt-primary"> Désigné et codé par <a class="folio-dev" href="https://dimitrisykovaris.netlify.app/" target="_blank" rel="noopener noreferrer">Sykovaris Dimitrios</a></p>
         </div>
       </div>
   </footer>

@@ -61,7 +61,7 @@
     <div class="menu__container">
       <div class="menu__img animS">
         <figure class="image-menu" v-for="(i, img) in nav.images" :key="img" ref="img">
-         <nuxt-img :src="`${i.img}`" loading="lazy" :alt="i.alt"/>
+         <nuxt-img :src="`${i.img}`" :alt="i.alt"/>
         </figure>
       </div>
       <div class="menu__nav animS">
