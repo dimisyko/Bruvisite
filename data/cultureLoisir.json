@@ -2,17 +2,14 @@
   "sectionIntro": {
     "imageParallax": [
       {
-        "dataV": "0.03",
         "alt": "atomium",
         "img": "imgHome/atomium.webp"
       },
       {
-        "dataV": "-0.03",
         "alt": "cinquantenaire",
         "img": "imgTourisme/detail/bg_cinquantenaire.webp"
       },
       {
-        "dataV": "-0.03",
         "alt": "manneken pis",
         "img": "imgHome/Bruxelles_Manneken_Pis.webp"
       }

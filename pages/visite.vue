@@ -15,7 +15,7 @@
       <main class="site-main fade">
         <section class="list">
 
-          <div class="list__wrapper clipPathLeave" v-for="(culture, i) in dataCulture.detailPage" :key="i" :data-v="culture.dataV" ref="item">
+          <div class="list__wrapper clipPathLeave" v-for="(culture, i) in dataCulture.detailPage" :key="i" ref="item">
           <nuxt-link class="list__item b-radius" :to="`lieu/${culture.urlPage}`">
             <h3 class="center-absolute hide"><span class="transformY">{{culture.detailTitre}}</span></h3>
             <figure class="list__img">
