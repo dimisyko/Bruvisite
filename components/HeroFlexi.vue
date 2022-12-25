@@ -22,8 +22,7 @@ export default {
        posY : 0,
        ease : 8,
        newPosX : 0,
-       newPosY : 0,
-       raf : undefined
+       newPosY : 0
     }
   },
   

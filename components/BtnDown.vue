@@ -31,10 +31,8 @@ export default {
     name : "BtnDown",
     data(){
       return{
-        interval : undefined,
         start : 0,
-        v : false,
-        raf : undefined
+        v : false
       }
     },
     mounted(){
