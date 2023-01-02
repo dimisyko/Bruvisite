@@ -1,6 +1,5 @@
 <template>
-  <div>
-      <TransitionPage/>
+  <div class="content">
     <Header />
     <!-- Hero -->
     <section class="hero-home | animClipPath | fade">
@@ -134,7 +133,6 @@
       </section>
       <Cta />
     </main>
-    <Footer />
   </div>
 </template>
 

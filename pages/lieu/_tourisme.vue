@@ -1,7 +1,6 @@
 <template>
 
-    <div class="all overflow-x">
-       <TransitionPage/>
+    <div class="content overflow-x">
     <Header />
       <HeroFlexi 
       v-bind:title="visit.detailTitre"
@@ -118,7 +117,6 @@
             </section>
              <Cta/>
            </main>
-         <Footer/>
      </div>
 </template>
 

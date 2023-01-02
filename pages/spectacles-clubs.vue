@@ -1,6 +1,5 @@
 <template>
-  <div class="all">
-     <TransitionPage/>
+  <div class="content overflow-x">
     <Header />
       <Hero
         title="Spectacles / Clubs"
@@ -35,7 +34,6 @@
           </section>
             <Cta />
       </main>
-   <Footer />
   </div>
 </template>
 

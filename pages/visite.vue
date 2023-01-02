@@ -1,6 +1,5 @@
 <template>
-  <div class="all">
-    <TransitionPage/>
+  <div class="content">
     <div class="container-height" ref="containerHeight">
     <Header />
     <div class="container hide" ref="container">
@@ -28,7 +27,6 @@
     </div>
      </div>
      <Cta />
-   <Footer />
   </div>
 </template>
 

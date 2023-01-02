@@ -1,5 +1,5 @@
 <template>
-  <footer class="footer__container fade">
+  <footer class="footer__container">
       <div class="footer__wrapper d-flex-between">
       <nuxt-link to="/" class="footer-logo"><img src="~/assets/icon/logo.svg" alt="logo"></nuxt-link>
       <div class="footer__wrapper-link">

@@ -1,6 +1,5 @@
 <template>
-   <div class="all">
-     <TransitionPage/>
+   <div class="content overflow-x">
     <Header />    
       <Hero
         title="Les hôtels"
@@ -26,7 +25,6 @@
           </section>
             <Cta />
       </main>
-   <Footer />
   </div>
 </template>
 

@@ -1,6 +1,5 @@
 <template>
-  <div class="all overflow-x">
-    <TransitionPage/>
+  <div class="content overflow-x">
     <Header />
     <HeroFlexi
     v-bind:title="nocturne.heroNoctune.heroTitle"
@@ -101,7 +100,6 @@
             </section>
       <Cta />
     </main>
-    <Footer />
   </div>
 </template>
 
