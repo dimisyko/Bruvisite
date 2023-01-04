@@ -1,5 +1,5 @@
 <template>
-  <div class="content overflow-x">
+  <div class="content">
     <Header />
       <Hero
         title="Spectacles / Clubs"
